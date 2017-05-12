@@ -1,0 +1,28 @@
+{
+  "name": "can-connect-tastypie",
+  "version": "0.0.1",
+  "description": "Tastypie binding for can-connect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rkojedzinszky/can-connect-tastypie.git"
+  },
+  "keywords": [
+    "can-connect",
+    "tastypie"
+  ],
+  "author": "Richard Kojedzinszky",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/rkojedzinszky/can-connect-tastypie/issues"
+  },
+  "homepage": "https://github.com/rkojedzinszky/can-connect-tastypie#readme",
+  "dependencies": {
+    "can-connect": "^1.3.11",
+    "can-param": "^1.0.1",
+    "js-cookie": "^2.1.4"
+  }
+}
